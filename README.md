@@ -5,6 +5,14 @@ Final Project of Snap Academies 2022
 
 Our team found that foster youth have incredible stories to share, but no platform that nurtures a sense of community. YouBelong is a Snap Mini platform that fosters an environment of authenticity, self-expression, and happiness. We used React Native for the front end and Firebase to store images and videos for the backend.
 
+## Our Team
+
+Developer - [Raina Wan](https://www.linkedin.com/in/raina-wan-profile/), [Soyeon Kim](https://www.linkedin.com/in/sonya-kim/)
+
+Designer - [Daisy Gomez](https://www.linkedin.com/mwlite/in/daisy-gomez-84040b237), [Maria Garsa](https://www.linkedin.com/mwlite/in/maria-garsa-28b19b1a5)
+
+Marketer - [Franky Calamateos](https://www.linkedin.com/mwlite/in/fcalamateos), [Tyler Cooper](https://www.linkedin.com/mwlite/in/tyler-cooper-711a71243)
+
 ## Run Project
 
 1. In terminal, run the following command:
@@ -20,10 +28,22 @@ Our team found that foster youth have incredible stories to share, but no platfo
   ```
   expo start --tunnel
   ```
-2. Add Firebase config file as `firebase.js`
-3. Download Expo Go on your mobile device (https://expo.dev/client)
-4. Scan the QR code in terminal, using your mobile device camera
+2. Add Firebase config file as `firebase.js` in root
+  ```js
+import { initializeApp } from "firebase/app";
+import { getFirestore } from "firebase/firestore";
 
+const firebaseConfig = {
+  // config here
+};
+
+const app = initializeApp(firebaseConfig);
+const db = getFirestore(app);
+
+export default db;
+  ```
+4. Download Expo Go on your mobile device (https://expo.dev/client)
+5. Scan the QR code in terminal, using your mobile device camera
 
 ## App Experience
 
@@ -36,6 +56,10 @@ Our team found that foster youth have incredible stories to share, but no platfo
 ~ | Sign Up/Sign In | Intro | Facility Authentication
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 **Samples** | <img src="https://github.com/sonyakim-dev/git-practice/blob/main/foster-youth-login.gif?raw=true" width="180"/> | <img src="https://github.com/rainawan/FosterYouth/blob/a66864239ee392d944f243df31e0ce579b3506a6/assets/snapchat/intro.gif?raw=true" width="180"/> | <img src="https://github.com/rainawan/FosterYouth/blob/9180e0bddc2d1ecf9d5cd018330064c55b7ad1ed/assets/snapchat/facility.gif?raw=true" width="180"/>
+
+## Demo Video
+
+[YouTube Video](https://youtu.be/xCRQtvLTHfc)
 
 ## Tools Used
 
