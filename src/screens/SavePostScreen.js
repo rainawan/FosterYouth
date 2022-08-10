@@ -177,7 +177,7 @@ export default function SavePostScreen({ route }) {
 
       <TouchableOpacity
         onPress={() => {
-          // saveMediaToStorage();
+          saveMediaToStorage();
           navigation.navigate("Camera");
           navigation.navigate("Stories");
         }}
