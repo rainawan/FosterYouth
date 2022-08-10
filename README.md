@@ -7,11 +7,11 @@ Our team found that foster youth have incredible stories to share, but no platfo
 
 ## Our Team
 
-Developer - [Raina Wan](https://www.linkedin.com/in/raina-wan-profile/), [Soyeon Kim](https://www.linkedin.com/in/sonya-kim/)
+Developers - [Raina Wan](https://www.linkedin.com/in/raina-wan-profile/), [Soyeon Kim](https://www.linkedin.com/in/sonya-kim/)
 
-Designer - [Daisy Gomez](https://www.linkedin.com/mwlite/in/daisy-gomez-84040b237), [Maria Garsa](https://www.linkedin.com/mwlite/in/maria-garsa-28b19b1a5)
+Designers - [Daisy Gomez](https://www.linkedin.com/mwlite/in/daisy-gomez-84040b237), [Maria Garsa](https://www.linkedin.com/mwlite/in/maria-garsa-28b19b1a5)
 
-Marketer - [Franky Calamateos](https://www.linkedin.com/mwlite/in/fcalamateos), [Tyler Cooper](https://www.linkedin.com/mwlite/in/tyler-cooper-711a71243)
+Marketers - [Franky Calamateos](https://www.linkedin.com/mwlite/in/fcalamateos), [Tyler Cooper](https://www.linkedin.com/mwlite/in/tyler-cooper-711a71243)
 
 ## Run Project
 
