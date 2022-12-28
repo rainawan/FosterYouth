@@ -57,6 +57,10 @@ export default db;
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 **Samples** | <img src="https://github.com/sonyakim-dev/git-practice/blob/main/foster-youth-login.gif?raw=true" width="180"/> | <img src="https://github.com/rainawan/FosterYouth/blob/a66864239ee392d944f243df31e0ce579b3506a6/assets/snapchat/intro.gif?raw=true" width="180"/> | <img src="https://github.com/rainawan/FosterYouth/blob/9180e0bddc2d1ecf9d5cd018330064c55b7ad1ed/assets/snapchat/facility.gif?raw=true" width="180"/>
 
+## Figma Wireframe
+
+[Figma Link](https://www.figma.com/file/MdDWF9tGsIiUPTUQWCoFYG/Prototype-%7C-Snap-Academies?node-id=154%3A8735)
+
 ## Demo Video
 
 [YouTube Video](https://youtu.be/xCRQtvLTHfc)
