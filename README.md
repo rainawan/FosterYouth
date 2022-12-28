@@ -60,7 +60,7 @@ export default db;
 ## Figma Design Process
 
 [Drafting Prototype](https://www.figma.com/file/MdDWF9tGsIiUPTUQWCoFYG/Prototype-%7C-Snap-Academies?node-id=0%3A1)
-[Final Prototype] (https://www.figma.com/file/MdDWF9tGsIiUPTUQWCoFYG/Prototype-%7C-Snap-Academies?node-id=154%3A8735)
+[Final Prototype](https://www.figma.com/file/MdDWF9tGsIiUPTUQWCoFYG/Prototype-%7C-Snap-Academies?node-id=154%3A8735)
 
 ## Demo Video
 
